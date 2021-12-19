@@ -1,9 +1,16 @@
 # example_pip_package
 
 ## How to install
+with https
 ```
 pip install git+https://github.com/getveryrichet/example_pip_package.git
 ```
+with ssh
+```
+pip install git+ssh://git@github.com-personal/getveryrichet/example_pip_package.git
+
+```
+
 
 If you install, then you should be able to use example package.
 
