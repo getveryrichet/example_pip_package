@@ -7,6 +7,8 @@ pip install git+https://github.com/getveryrichet/example_pip_package.git
 ```
 with ssh
 ```
+pip install git+ssh://git@github.com/getveryrichet/example_pip_package.git
+# or
 pip install git+ssh://git@github.com-personal/getveryrichet/example_pip_package.git
 ```
 
